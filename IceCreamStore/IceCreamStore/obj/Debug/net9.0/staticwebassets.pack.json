@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.html",
+      "PackagePath": "staticwebassets\\Product.html"
+    },
+    {
+      "Id": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.js",
+      "PackagePath": "staticwebassets\\Product.js"
+    },
+    {
+      "Id": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.css",
+      "PackagePath": "staticwebassets\\main.css"
+    },
+    {
+      "Id": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.html",
+      "PackagePath": "staticwebassets\\main.html"
+    },
+    {
+      "Id": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.js",
+      "PackagePath": "staticwebassets\\main.js"
+    },
+    {
+      "Id": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\update.html",
+      "PackagePath": "staticwebassets\\update.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.IceCreamStore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.IceCreamStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.IceCreamStore.props",
+      "PackagePath": "build\\IceCreamStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.IceCreamStore.props",
+      "PackagePath": "buildMultiTargeting\\IceCreamStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.IceCreamStore.props",
+      "PackagePath": "buildTransitive\\IceCreamStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

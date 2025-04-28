@@ -1,0 +1,2062 @@
+{
+  "Version": 1,
+  "Hash": "B9rwDLgdnR9Br3j50sRfAXzQXGitNmrKznYTe000FWc=",
+  "Source": "IceCreamStore",
+  "BasePath": "_content/IceCreamStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "IceCreamStore\\wwwroot",
+      "Source": "IceCreamStore",
+      "ContentRoot": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\",
+      "BasePath": "_content/IceCreamStore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\9iqcbxfr11-4v18jfn9zl.gz",
+      "SourceId": "IceCreamStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/IceCreamStore",
+      "RelativePath": "main#[.{fingerprint=4v18jfn9zl}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "80sdnm7z0j",
+      "Integrity": "+HHm9cn5XOn+0dhPOsbi2Kg6Hmu+x/n0cStsSz6LXSg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.html"
+    },
+    {
+      "Identity": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\arxjv7et0y-42wzoph0h9.gz",
+      "SourceId": "IceCreamStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/IceCreamStore",
+      "RelativePath": "update#[.{fingerprint=42wzoph0h9}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\update.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "d614bcider",
+      "Integrity": "CyZBJJKcjLuUovqS1hya4rsnDzvkR6aGA0+tKHoJt04=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\update.html"
+    },
+    {
+      "Identity": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\cd4iwjmtbr-lm6pmcgibb.gz",
+      "SourceId": "IceCreamStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/IceCreamStore",
+      "RelativePath": "Product#[.{fingerprint=lm6pmcgibb}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "st2ouzizmr",
+      "Integrity": "UE468gwirM8PrhJOS48eU6LMsij+KPcjiVSvglMb1Vk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.js"
+    },
+    {
+      "Identity": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\rvrmx9d7ax-hi4w39mq54.gz",
+      "SourceId": "IceCreamStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/IceCreamStore",
+      "RelativePath": "main#[.{fingerprint=hi4w39mq54}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gwjfkefq3v",
+      "Integrity": "gA60y1IfwPtLBu2HqwfxOhHVlHQBjGGpa5VEI15Uec0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.css"
+    },
+    {
+      "Identity": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\t9ep53iakb-g1edfzhl0y.gz",
+      "SourceId": "IceCreamStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/IceCreamStore",
+      "RelativePath": "Product#[.{fingerprint=g1edfzhl0y}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "65l13wx4wy",
+      "Integrity": "tmvbS8NEh2qBpJIAkMhI3ts3g+TmZP1Y8BxrnqzKPYU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.html"
+    },
+    {
+      "Identity": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\w8jivb43m0-r0362tho64.gz",
+      "SourceId": "IceCreamStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/IceCreamStore",
+      "RelativePath": "main#[.{fingerprint=r0362tho64}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6ft6fbdv8l",
+      "Integrity": "cuVDXi7DrJRyrw2toSWWlL5R4+yyZvd4hlCalZRkUvo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.js"
+    },
+    {
+      "Identity": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.css",
+      "SourceId": "IceCreamStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\",
+      "BasePath": "_content/IceCreamStore",
+      "RelativePath": "main#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hi4w39mq54",
+      "Integrity": "2WW2it/+BfNtfA5SendnPbQekzx2HH9e/E6uFp4ddOQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.css"
+    },
+    {
+      "Identity": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.html",
+      "SourceId": "IceCreamStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\",
+      "BasePath": "_content/IceCreamStore",
+      "RelativePath": "main#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4v18jfn9zl",
+      "Integrity": "cPqN/EaTurB6pjA0hxJpt+KMPH236ilMGRenDGzvM+k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.html"
+    },
+    {
+      "Identity": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.js",
+      "SourceId": "IceCreamStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\",
+      "BasePath": "_content/IceCreamStore",
+      "RelativePath": "main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r0362tho64",
+      "Integrity": "yzp4dkO5O3A+f2xTu/rORN4MG4SiQUKq1IRaWWrZREU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.js"
+    },
+    {
+      "Identity": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.html",
+      "SourceId": "IceCreamStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\",
+      "BasePath": "_content/IceCreamStore",
+      "RelativePath": "Product#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g1edfzhl0y",
+      "Integrity": "VLORXW6rieBeBxsxlXlGtWErPiPmBAavhhkOefGQYFI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Product.html"
+    },
+    {
+      "Identity": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.js",
+      "SourceId": "IceCreamStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\",
+      "BasePath": "_content/IceCreamStore",
+      "RelativePath": "Product#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lm6pmcgibb",
+      "Integrity": "zfNdNCqiGw8EC1J8fp+HYJWhfqs5PAOS9K8Df7+6j5w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Product.js"
+    },
+    {
+      "Identity": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\update.html",
+      "SourceId": "IceCreamStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\",
+      "BasePath": "_content/IceCreamStore",
+      "RelativePath": "update#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "42wzoph0h9",
+      "Integrity": "DLkfP3KBPLdAyoa5nJG6e6gCqoPLCsjorxVeXouxcEg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\update.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "main.4v18jfn9zl.html",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\9iqcbxfr11-4v18jfn9zl.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001497005988"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "667"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+HHm9cn5XOn+0dhPOsbi2Kg6Hmu+x/n0cStsSz6LXSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cPqN/EaTurB6pjA0hxJpt+KMPH236ilMGRenDGzvM+k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4v18jfn9zl"
+        },
+        {
+          "Name": "label",
+          "Value": "main.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cPqN/EaTurB6pjA0hxJpt+KMPH236ilMGRenDGzvM+k="
+        }
+      ]
+    },
+    {
+      "Route": "main.4v18jfn9zl.html",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cPqN/EaTurB6pjA0hxJpt+KMPH236ilMGRenDGzvM+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4v18jfn9zl"
+        },
+        {
+          "Name": "label",
+          "Value": "main.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cPqN/EaTurB6pjA0hxJpt+KMPH236ilMGRenDGzvM+k="
+        }
+      ]
+    },
+    {
+      "Route": "main.4v18jfn9zl.html.gz",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\9iqcbxfr11-4v18jfn9zl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+HHm9cn5XOn+0dhPOsbi2Kg6Hmu+x/n0cStsSz6LXSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4v18jfn9zl"
+        },
+        {
+          "Name": "label",
+          "Value": "main.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+HHm9cn5XOn+0dhPOsbi2Kg6Hmu+x/n0cStsSz6LXSg="
+        }
+      ]
+    },
+    {
+      "Route": "main.css",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\rvrmx9d7ax-hi4w39mq54.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001319261214"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "757"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gA60y1IfwPtLBu2HqwfxOhHVlHQBjGGpa5VEI15Uec0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 09:56:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2WW2it/+BfNtfA5SendnPbQekzx2HH9e/E6uFp4ddOQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2WW2it/+BfNtfA5SendnPbQekzx2HH9e/E6uFp4ddOQ="
+        }
+      ]
+    },
+    {
+      "Route": "main.css",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2WW2it/+BfNtfA5SendnPbQekzx2HH9e/E6uFp4ddOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 09:56:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2WW2it/+BfNtfA5SendnPbQekzx2HH9e/E6uFp4ddOQ="
+        }
+      ]
+    },
+    {
+      "Route": "main.css.gz",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\rvrmx9d7ax-hi4w39mq54.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gA60y1IfwPtLBu2HqwfxOhHVlHQBjGGpa5VEI15Uec0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 09:56:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gA60y1IfwPtLBu2HqwfxOhHVlHQBjGGpa5VEI15Uec0="
+        }
+      ]
+    },
+    {
+      "Route": "main.hi4w39mq54.css",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\rvrmx9d7ax-hi4w39mq54.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001319261214"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "757"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gA60y1IfwPtLBu2HqwfxOhHVlHQBjGGpa5VEI15Uec0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 09:56:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2WW2it/+BfNtfA5SendnPbQekzx2HH9e/E6uFp4ddOQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hi4w39mq54"
+        },
+        {
+          "Name": "label",
+          "Value": "main.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2WW2it/+BfNtfA5SendnPbQekzx2HH9e/E6uFp4ddOQ="
+        }
+      ]
+    },
+    {
+      "Route": "main.hi4w39mq54.css",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2WW2it/+BfNtfA5SendnPbQekzx2HH9e/E6uFp4ddOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 09:56:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hi4w39mq54"
+        },
+        {
+          "Name": "label",
+          "Value": "main.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2WW2it/+BfNtfA5SendnPbQekzx2HH9e/E6uFp4ddOQ="
+        }
+      ]
+    },
+    {
+      "Route": "main.hi4w39mq54.css.gz",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\rvrmx9d7ax-hi4w39mq54.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gA60y1IfwPtLBu2HqwfxOhHVlHQBjGGpa5VEI15Uec0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 09:56:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hi4w39mq54"
+        },
+        {
+          "Name": "label",
+          "Value": "main.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gA60y1IfwPtLBu2HqwfxOhHVlHQBjGGpa5VEI15Uec0="
+        }
+      ]
+    },
+    {
+      "Route": "main.html",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\9iqcbxfr11-4v18jfn9zl.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001497005988"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "667"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+HHm9cn5XOn+0dhPOsbi2Kg6Hmu+x/n0cStsSz6LXSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cPqN/EaTurB6pjA0hxJpt+KMPH236ilMGRenDGzvM+k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cPqN/EaTurB6pjA0hxJpt+KMPH236ilMGRenDGzvM+k="
+        }
+      ]
+    },
+    {
+      "Route": "main.html",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cPqN/EaTurB6pjA0hxJpt+KMPH236ilMGRenDGzvM+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cPqN/EaTurB6pjA0hxJpt+KMPH236ilMGRenDGzvM+k="
+        }
+      ]
+    },
+    {
+      "Route": "main.html.gz",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\9iqcbxfr11-4v18jfn9zl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+HHm9cn5XOn+0dhPOsbi2Kg6Hmu+x/n0cStsSz6LXSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+HHm9cn5XOn+0dhPOsbi2Kg6Hmu+x/n0cStsSz6LXSg="
+        }
+      ]
+    },
+    {
+      "Route": "main.js",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\w8jivb43m0-r0362tho64.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000909090909"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1099"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cuVDXi7DrJRyrw2toSWWlL5R4+yyZvd4hlCalZRkUvo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 13:18:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yzp4dkO5O3A+f2xTu/rORN4MG4SiQUKq1IRaWWrZREU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yzp4dkO5O3A+f2xTu/rORN4MG4SiQUKq1IRaWWrZREU="
+        }
+      ]
+    },
+    {
+      "Route": "main.js",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yzp4dkO5O3A+f2xTu/rORN4MG4SiQUKq1IRaWWrZREU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 13:18:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yzp4dkO5O3A+f2xTu/rORN4MG4SiQUKq1IRaWWrZREU="
+        }
+      ]
+    },
+    {
+      "Route": "main.js.gz",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\w8jivb43m0-r0362tho64.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cuVDXi7DrJRyrw2toSWWlL5R4+yyZvd4hlCalZRkUvo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 13:18:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cuVDXi7DrJRyrw2toSWWlL5R4+yyZvd4hlCalZRkUvo="
+        }
+      ]
+    },
+    {
+      "Route": "main.r0362tho64.js",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\w8jivb43m0-r0362tho64.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000909090909"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1099"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cuVDXi7DrJRyrw2toSWWlL5R4+yyZvd4hlCalZRkUvo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 13:18:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yzp4dkO5O3A+f2xTu/rORN4MG4SiQUKq1IRaWWrZREU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r0362tho64"
+        },
+        {
+          "Name": "label",
+          "Value": "main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yzp4dkO5O3A+f2xTu/rORN4MG4SiQUKq1IRaWWrZREU="
+        }
+      ]
+    },
+    {
+      "Route": "main.r0362tho64.js",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yzp4dkO5O3A+f2xTu/rORN4MG4SiQUKq1IRaWWrZREU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 13:18:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r0362tho64"
+        },
+        {
+          "Name": "label",
+          "Value": "main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yzp4dkO5O3A+f2xTu/rORN4MG4SiQUKq1IRaWWrZREU="
+        }
+      ]
+    },
+    {
+      "Route": "main.r0362tho64.js.gz",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\w8jivb43m0-r0362tho64.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cuVDXi7DrJRyrw2toSWWlL5R4+yyZvd4hlCalZRkUvo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 13:18:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r0362tho64"
+        },
+        {
+          "Name": "label",
+          "Value": "main.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cuVDXi7DrJRyrw2toSWWlL5R4+yyZvd4hlCalZRkUvo="
+        }
+      ]
+    },
+    {
+      "Route": "Product.g1edfzhl0y.html",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\t9ep53iakb-g1edfzhl0y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005154639175"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tmvbS8NEh2qBpJIAkMhI3ts3g+TmZP1Y8BxrnqzKPYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 15:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VLORXW6rieBeBxsxlXlGtWErPiPmBAavhhkOefGQYFI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g1edfzhl0y"
+        },
+        {
+          "Name": "label",
+          "Value": "Product.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VLORXW6rieBeBxsxlXlGtWErPiPmBAavhhkOefGQYFI="
+        }
+      ]
+    },
+    {
+      "Route": "Product.g1edfzhl0y.html",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VLORXW6rieBeBxsxlXlGtWErPiPmBAavhhkOefGQYFI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 15:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g1edfzhl0y"
+        },
+        {
+          "Name": "label",
+          "Value": "Product.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VLORXW6rieBeBxsxlXlGtWErPiPmBAavhhkOefGQYFI="
+        }
+      ]
+    },
+    {
+      "Route": "Product.g1edfzhl0y.html.gz",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\t9ep53iakb-g1edfzhl0y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tmvbS8NEh2qBpJIAkMhI3ts3g+TmZP1Y8BxrnqzKPYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 15:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g1edfzhl0y"
+        },
+        {
+          "Name": "label",
+          "Value": "Product.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tmvbS8NEh2qBpJIAkMhI3ts3g+TmZP1Y8BxrnqzKPYU="
+        }
+      ]
+    },
+    {
+      "Route": "Product.html",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\t9ep53iakb-g1edfzhl0y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005154639175"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tmvbS8NEh2qBpJIAkMhI3ts3g+TmZP1Y8BxrnqzKPYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 15:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VLORXW6rieBeBxsxlXlGtWErPiPmBAavhhkOefGQYFI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VLORXW6rieBeBxsxlXlGtWErPiPmBAavhhkOefGQYFI="
+        }
+      ]
+    },
+    {
+      "Route": "Product.html",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VLORXW6rieBeBxsxlXlGtWErPiPmBAavhhkOefGQYFI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 15:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VLORXW6rieBeBxsxlXlGtWErPiPmBAavhhkOefGQYFI="
+        }
+      ]
+    },
+    {
+      "Route": "Product.html.gz",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\t9ep53iakb-g1edfzhl0y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tmvbS8NEh2qBpJIAkMhI3ts3g+TmZP1Y8BxrnqzKPYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 15:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tmvbS8NEh2qBpJIAkMhI3ts3g+TmZP1Y8BxrnqzKPYU="
+        }
+      ]
+    },
+    {
+      "Route": "Product.js",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\cd4iwjmtbr-lm6pmcgibb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001988071571"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "502"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UE468gwirM8PrhJOS48eU6LMsij+KPcjiVSvglMb1Vk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 12:19:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zfNdNCqiGw8EC1J8fp+HYJWhfqs5PAOS9K8Df7+6j5w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zfNdNCqiGw8EC1J8fp+HYJWhfqs5PAOS9K8Df7+6j5w="
+        }
+      ]
+    },
+    {
+      "Route": "Product.js",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zfNdNCqiGw8EC1J8fp+HYJWhfqs5PAOS9K8Df7+6j5w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 12:19:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zfNdNCqiGw8EC1J8fp+HYJWhfqs5PAOS9K8Df7+6j5w="
+        }
+      ]
+    },
+    {
+      "Route": "Product.js.gz",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\cd4iwjmtbr-lm6pmcgibb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "502"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UE468gwirM8PrhJOS48eU6LMsij+KPcjiVSvglMb1Vk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 12:19:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UE468gwirM8PrhJOS48eU6LMsij+KPcjiVSvglMb1Vk="
+        }
+      ]
+    },
+    {
+      "Route": "Product.lm6pmcgibb.js",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\cd4iwjmtbr-lm6pmcgibb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001988071571"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "502"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UE468gwirM8PrhJOS48eU6LMsij+KPcjiVSvglMb1Vk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 12:19:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zfNdNCqiGw8EC1J8fp+HYJWhfqs5PAOS9K8Df7+6j5w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lm6pmcgibb"
+        },
+        {
+          "Name": "label",
+          "Value": "Product.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zfNdNCqiGw8EC1J8fp+HYJWhfqs5PAOS9K8Df7+6j5w="
+        }
+      ]
+    },
+    {
+      "Route": "Product.lm6pmcgibb.js",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zfNdNCqiGw8EC1J8fp+HYJWhfqs5PAOS9K8Df7+6j5w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 12:19:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lm6pmcgibb"
+        },
+        {
+          "Name": "label",
+          "Value": "Product.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zfNdNCqiGw8EC1J8fp+HYJWhfqs5PAOS9K8Df7+6j5w="
+        }
+      ]
+    },
+    {
+      "Route": "Product.lm6pmcgibb.js.gz",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\cd4iwjmtbr-lm6pmcgibb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "502"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UE468gwirM8PrhJOS48eU6LMsij+KPcjiVSvglMb1Vk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 12:19:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lm6pmcgibb"
+        },
+        {
+          "Name": "label",
+          "Value": "Product.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UE468gwirM8PrhJOS48eU6LMsij+KPcjiVSvglMb1Vk="
+        }
+      ]
+    },
+    {
+      "Route": "update.42wzoph0h9.html",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\arxjv7et0y-42wzoph0h9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002283105023"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "437"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CyZBJJKcjLuUovqS1hya4rsnDzvkR6aGA0+tKHoJt04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 18:12:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DLkfP3KBPLdAyoa5nJG6e6gCqoPLCsjorxVeXouxcEg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "42wzoph0h9"
+        },
+        {
+          "Name": "label",
+          "Value": "update.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DLkfP3KBPLdAyoa5nJG6e6gCqoPLCsjorxVeXouxcEg="
+        }
+      ]
+    },
+    {
+      "Route": "update.42wzoph0h9.html",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\update.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "805"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DLkfP3KBPLdAyoa5nJG6e6gCqoPLCsjorxVeXouxcEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 18:12:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "42wzoph0h9"
+        },
+        {
+          "Name": "label",
+          "Value": "update.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DLkfP3KBPLdAyoa5nJG6e6gCqoPLCsjorxVeXouxcEg="
+        }
+      ]
+    },
+    {
+      "Route": "update.42wzoph0h9.html.gz",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\arxjv7et0y-42wzoph0h9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CyZBJJKcjLuUovqS1hya4rsnDzvkR6aGA0+tKHoJt04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 18:12:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "42wzoph0h9"
+        },
+        {
+          "Name": "label",
+          "Value": "update.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CyZBJJKcjLuUovqS1hya4rsnDzvkR6aGA0+tKHoJt04="
+        }
+      ]
+    },
+    {
+      "Route": "update.html",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\arxjv7et0y-42wzoph0h9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002283105023"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "437"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CyZBJJKcjLuUovqS1hya4rsnDzvkR6aGA0+tKHoJt04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 18:12:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DLkfP3KBPLdAyoa5nJG6e6gCqoPLCsjorxVeXouxcEg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DLkfP3KBPLdAyoa5nJG6e6gCqoPLCsjorxVeXouxcEg="
+        }
+      ]
+    },
+    {
+      "Route": "update.html",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\update.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "805"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DLkfP3KBPLdAyoa5nJG6e6gCqoPLCsjorxVeXouxcEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 18:12:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DLkfP3KBPLdAyoa5nJG6e6gCqoPLCsjorxVeXouxcEg="
+        }
+      ]
+    },
+    {
+      "Route": "update.html.gz",
+      "AssetFile": "F:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\obj\\Debug\\net9.0\\compressed\\arxjv7et0y-42wzoph0h9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CyZBJJKcjLuUovqS1hya4rsnDzvkR6aGA0+tKHoJt04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 18:12:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CyZBJJKcjLuUovqS1hya4rsnDzvkR6aGA0+tKHoJt04="
+        }
+      ]
+    }
+  ]
+}

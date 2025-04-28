@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B8LHCJzyPSU=",
+  "success": true,
+  "projectFilePath": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\IceCreamStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\326057676\\.nuget\\packages\\zxcvbn-core\\7.0.92\\zxcvbn-core.7.0.92.nupkg.sha512"
+  ],
+  "logs": []
+}
