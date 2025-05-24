@@ -23,3 +23,17 @@ F:\webAPI\iceCreamStore\IceCreamStore\Services\obj\Debug\net9.0\ref\Services.dll
 E:\webAPI\iceCreamStore\IceCreamStore\Services\obj\Debug\net9.0\Services.dll
 E:\webAPI\iceCreamStore\IceCreamStore\Services\obj\Debug\net9.0\refint\Services.dll
 E:\webAPI\iceCreamStore\IceCreamStore\Services\obj\Debug\net9.0\Services.pdb
+D:\webAPI\iceCreamStore\IceCreamStore\Services\bin\Debug\net9.0\Services.deps.json
+D:\webAPI\iceCreamStore\IceCreamStore\Services\bin\Debug\net9.0\Services.dll
+D:\webAPI\iceCreamStore\IceCreamStore\Services\bin\Debug\net9.0\Services.pdb
+D:\webAPI\iceCreamStore\IceCreamStore\Services\bin\Debug\net9.0\Entities.dll
+D:\webAPI\iceCreamStore\IceCreamStore\Services\bin\Debug\net9.0\repositories.dll
+D:\webAPI\iceCreamStore\IceCreamStore\Services\bin\Debug\net9.0\Entities.pdb
+D:\webAPI\iceCreamStore\IceCreamStore\Services\bin\Debug\net9.0\repositories.pdb
+D:\webAPI\iceCreamStore\IceCreamStore\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\webAPI\iceCreamStore\IceCreamStore\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\webAPI\iceCreamStore\IceCreamStore\Services\obj\Debug\net9.0\Services.dll
+D:\webAPI\iceCreamStore\IceCreamStore\Services\obj\Debug\net9.0\refint\Services.dll
+D:\webAPI\iceCreamStore\IceCreamStore\Services\obj\Debug\net9.0\Services.pdb
+D:\webAPI\iceCreamStore\IceCreamStore\Services\obj\Debug\net9.0\ref\Services.dll
+F:\webAPI\iceCreamStore\IceCreamStore\Services\obj\Debug\net9.0\Services.sourcelink.json

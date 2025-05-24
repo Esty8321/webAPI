@@ -33,3 +33,17 @@ E:\webAPI\iceCreamStore\IceCreamStore\repositories\obj\Debug\net9.0\repositories
 E:\webAPI\iceCreamStore\IceCreamStore\repositories\obj\Debug\net9.0\refint\repositories.dll
 E:\webAPI\iceCreamStore\IceCreamStore\repositories\obj\Debug\net9.0\repositories.pdb
 E:\webAPI\iceCreamStore\IceCreamStore\repositories\obj\Debug\net9.0\ref\repositories.dll
+D:\webAPI\iceCreamStore\IceCreamStore\repositories\bin\Debug\net9.0\repositories.deps.json
+D:\webAPI\iceCreamStore\IceCreamStore\repositories\bin\Debug\net9.0\repositories.dll
+D:\webAPI\iceCreamStore\IceCreamStore\repositories\bin\Debug\net9.0\repositories.pdb
+D:\webAPI\iceCreamStore\IceCreamStore\repositories\bin\Debug\net9.0\Entities.dll
+D:\webAPI\iceCreamStore\IceCreamStore\repositories\bin\Debug\net9.0\Entities.pdb
+D:\webAPI\iceCreamStore\IceCreamStore\repositories\obj\Debug\net9.0\repositories.sourcelink.json
+D:\webAPI\iceCreamStore\IceCreamStore\repositories\obj\Debug\net9.0\reposito.8E4D5412.Up2Date
+D:\webAPI\iceCreamStore\IceCreamStore\repositories\obj\Debug\net9.0\repositories.dll
+D:\webAPI\iceCreamStore\IceCreamStore\repositories\obj\Debug\net9.0\refint\repositories.dll
+D:\webAPI\iceCreamStore\IceCreamStore\repositories\obj\Debug\net9.0\repositories.pdb
+D:\webAPI\iceCreamStore\IceCreamStore\repositories\obj\Debug\net9.0\ref\repositories.dll
+F:\webAPI\iceCreamStore\IceCreamStore\repositories\obj\Debug\net9.0\repositories.sourcelink.json
+F:\webAPI\iceCreamStore\IceCreamStore\repositories\bin\Debug\net9.0\repositories.runtimeconfig.json
+F:\webAPI\iceCreamStore\IceCreamStore\repositories\obj\Debug\net9.0\repositories.genruntimeconfig.cache

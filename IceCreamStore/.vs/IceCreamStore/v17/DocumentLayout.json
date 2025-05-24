@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\icecreamstore\\wwwroot\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|solutionrelative:icecreamstore\\wwwroot\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\icecreamstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|solutionrelative:icecreamstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6989ED-3875-4ED2-AAE6-DAFBB72E656F}|Entities\\Entities.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6989ED-3875-4ED2-AAE6-DAFBB72E656F}|Entities\\Entities.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\repositories\\webapiservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|solutionrelative:repositories\\webapiservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\icecreamstore\\wwwroot\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|solutionrelative:icecreamstore\\wwwroot\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\icecreamstore\\wwwroot\\product.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|solutionrelative:icecreamstore\\wwwroot\\product.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\icecreamstore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|solutionrelative:icecreamstore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,8 +43,100 @@
       "RelativeMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\icecreamstore\\wwwroot\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|solutionrelative:icecreamstore\\wwwroot\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\icecreamstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|solutionrelative:icecreamstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AA4C1E-6D05-4C4A-9AF1-B833DE3D326D}|UnitTesting\\UnitTesting.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\unittesting\\orderrepositoryunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AA4C1E-6D05-4C4A-9AF1-B833DE3D326D}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\orderrepositoryunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6989ED-3875-4ED2-AAE6-DAFBB72E656F}|Entities\\Entities.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6989ED-3875-4ED2-AAE6-DAFBB72E656F}|Entities\\Entities.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AA4C1E-6D05-4C4A-9AF1-B833DE3D326D}|UnitTesting\\UnitTesting.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\unittesting\\categoryrepositryunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AA4C1E-6D05-4C4A-9AF1-B833DE3D326D}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\categoryrepositryunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AA4C1E-6D05-4C4A-9AF1-B833DE3D326D}|UnitTesting\\UnitTesting.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\unittesting\\productrepositoryunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AA4C1E-6D05-4C4A-9AF1-B833DE3D326D}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\productrepositoryunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6989ED-3875-4ED2-AAE6-DAFBB72E656F}|Entities\\Entities.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6989ED-3875-4ED2-AAE6-DAFBB72E656F}|Entities\\Entities.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6989ED-3875-4ED2-AAE6-DAFBB72E656F}|Entities\\Entities.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6989ED-3875-4ED2-AAE6-DAFBB72E656F}|Entities\\Entities.csproj|solutionrelative:entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BBCAF-B3F0-4E49-B83A-437AF17F91B1}|Services\\Services.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BBCAF-B3F0-4E49-B83A-437AF17F91B1}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B6989ED-3875-4ED2-AAE6-DAFBB72E656F}|Entities\\Entities.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\entities\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B6989ED-3875-4ED2-AAE6-DAFBB72E656F}|Entities\\Entities.csproj|solutionrelative:entities\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6989ED-3875-4ED2-AAE6-DAFBB72E656F}|Entities\\Entities.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6989ED-3875-4ED2-AAE6-DAFBB72E656F}|Entities\\Entities.csproj|solutionrelative:entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|solutionrelative:repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\icecreamstore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|solutionrelative:icecreamstore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\icecreamstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|solutionrelative:icecreamstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BBCAF-B3F0-4E49-B83A-437AF17F91B1}|Services\\Services.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BBCAF-B3F0-4E49-B83A-437AF17F91B1}|Services\\Services.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BBCAF-B3F0-4E49-B83A-437AF17F91B1}|Services\\Services.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BBCAF-B3F0-4E49-B83A-437AF17F91B1}|Services\\Services.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\icecreamstore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|solutionrelative:icecreamstore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BBCAF-B3F0-4E49-B83A-437AF17F91B1}|Services\\Services.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BBCAF-B3F0-4E49-B83A-437AF17F91B1}|Services\\Services.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BBCAF-B3F0-4E49-B83A-437AF17F91B1}|Services\\Services.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BBCAF-B3F0-4E49-B83A-437AF17F91B1}|Services\\Services.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\icecreamstore\\wwwroot\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|solutionrelative:icecreamstore\\wwwroot\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\icecreamstore\\icecreamstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -25,26 +145,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{910BBCAF-B3F0-4E49-B83A-437AF17F91B1}|Services\\Services.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{910BBCAF-B3F0-4E49-B83A-437AF17F91B1}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\icecreamstore\\wwwroot\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|solutionrelative:icecreamstore\\wwwroot\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\icecreamstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|solutionrelative:icecreamstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\icecreamstore\\wwwroot\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|solutionrelative:icecreamstore\\wwwroot\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\icecreamstore\\wwwroot\\product.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3C0B3F6-3236-4497-A340-4D767FDF9BF4}|IceCreamStore\\IceCreamStore.csproj|solutionrelative:icecreamstore\\wwwroot\\product.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B6989ED-3875-4ED2-AAE6-DAFBB72E656F}|Entities\\Entities.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B6989ED-3875-4ED2-AAE6-DAFBB72E656F}|Entities\\Entities.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,61 +153,428 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 301,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 56,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\UserService.cs",
-              "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T08:00:54.845Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "IceCreamStore\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\Controllers\\UserController.cs",
-              "RelativeToolTip": "IceCreamStore\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:04:33.469Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "Product.html",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.html",
+              "RelativeDocumentMoniker": "IceCreamStore\\wwwroot\\Product.html",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.html",
+              "RelativeToolTip": "IceCreamStore\\wwwroot\\Product.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-22T12:40:11.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "Product.js",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.js",
+              "RelativeDocumentMoniker": "IceCreamStore\\wwwroot\\Product.js",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.js",
+              "RelativeToolTip": "IceCreamStore\\wwwroot\\Product.js",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-22T12:40:13.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "repositories\\UserRepository.cs",
               "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\UserRepository.cs",
               "RelativeToolTip": "repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wDIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T11:28:39.142Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.js",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.js",
+              "RelativeDocumentMoniker": "IceCreamStore\\wwwroot\\main.js",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.js",
+              "RelativeToolTip": "IceCreamStore\\wwwroot\\main.js",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAC4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-11T11:37:28.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "webApiServerContext.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\webApiServerContext.cs",
+              "RelativeDocumentMoniker": "repositories\\webApiServerContext.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\webApiServerContext.cs",
+              "RelativeToolTip": "repositories\\webApiServerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:37:22.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:38:32.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryRepositryUnitTesting.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\UnitTesting\\CategoryRepositryUnitTesting.cs",
+              "RelativeDocumentMoniker": "UnitTesting\\CategoryRepositryUnitTesting.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\UnitTesting\\CategoryRepositryUnitTesting.cs",
+              "RelativeToolTip": "UnitTesting\\CategoryRepositryUnitTesting.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:44:12.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\Program.cs",
+              "RelativeDocumentMoniker": "IceCreamStore\\Program.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\Program.cs",
+              "RelativeToolTip": "IceCreamStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:51:14.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:00:54.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderRepositoryUnitTesting.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\UnitTesting\\OrderRepositoryUnitTesting.cs",
+              "RelativeDocumentMoniker": "UnitTesting\\OrderRepositoryUnitTesting.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\UnitTesting\\OrderRepositoryUnitTesting.cs",
+              "RelativeToolTip": "UnitTesting\\OrderRepositoryUnitTesting.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:49:58.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\ProductRepository.cs",
+              "RelativeToolTip": "repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAewBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:24:31.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "IceCreamStore\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\Controllers\\UserController.cs",
+              "RelativeToolTip": "IceCreamStore\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAApwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:04:33.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\OrderRepository.cs",
+              "RelativeToolTip": "repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:26:33.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Entities\\Order.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Entities\\Order.cs",
+              "RelativeToolTip": "Entities\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:32:52.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main.html",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.html",
+              "RelativeDocumentMoniker": "IceCreamStore\\wwwroot\\main.html",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.html",
+              "RelativeToolTip": "IceCreamStore\\wwwroot\\main.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-28T09:15:39.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IceCreamStore\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IceCreamStore\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T05:31:02.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductRepositoryUnitTesting.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\UnitTesting\\ProductRepositoryUnitTesting.cs",
+              "RelativeDocumentMoniker": "UnitTesting\\ProductRepositoryUnitTesting.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\UnitTesting\\ProductRepositoryUnitTesting.cs",
+              "RelativeToolTip": "UnitTesting\\ProductRepositoryUnitTesting.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:31:26.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:07:44.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Category.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Entities\\Category.cs",
+              "RelativeToolTip": "Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:48:46.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:39:02.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:31:43.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\IProductRepository.cs",
+              "RelativeToolTip": "repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:46:58.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "repositories\\IOrderRepository.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:37:16.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "UserLogin.cs",
               "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Entities\\UserLogin.cs",
               "RelativeDocumentMoniker": "Entities\\UserLogin.cs",
               "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Entities\\UserLogin.cs",
               "RelativeToolTip": "Entities\\UserLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T11:36:25.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 27,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:39:04.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Entities\\OrderItem.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:15:43.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "IceCreamStore\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "IceCreamStore\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:14:10.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "IceCreamStore\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "IceCreamStore\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:41:40.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\IUserRepository.cs",
+              "RelativeToolTip": "repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:41:12.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAACBjwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:09:47.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "IceCreamStore\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "IceCreamStore\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:45:51.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:39:48.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "main.css",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.css",
+              "RelativeDocumentMoniker": "IceCreamStore\\wwwroot\\main.css",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.css",
+              "RelativeToolTip": "IceCreamStore\\wwwroot\\main.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-11T09:56:23.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:47:01.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "IceCreamStore.csproj",
               "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\IceCreamStore.csproj",
               "RelativeDocumentMoniker": "IceCreamStore\\IceCreamStore.csproj",
@@ -119,75 +586,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "main.js",
-              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.js",
-              "RelativeDocumentMoniker": "IceCreamStore\\wwwroot\\main.js",
-              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\main.js",
-              "RelativeToolTip": "IceCreamStore\\wwwroot\\main.js",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAE4AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-22T12:25:30.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "IceCreamStore\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\Properties\\launchSettings.json",
-              "RelativeToolTip": "IceCreamStore\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-22T13:17:01.474Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.js",
-              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.js",
-              "RelativeDocumentMoniker": "IceCreamStore\\wwwroot\\Product.js",
-              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.js",
-              "RelativeToolTip": "IceCreamStore\\wwwroot\\Product.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-22T12:40:13.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Product.html",
-              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.html",
-              "RelativeDocumentMoniker": "IceCreamStore\\wwwroot\\Product.html",
-              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\wwwroot\\Product.html",
-              "RelativeToolTip": "IceCreamStore\\wwwroot\\Product.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-22T12:40:11.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 35,
               "Title": "Services.csproj",
               "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\Services.csproj",
               "RelativeDocumentMoniker": "Services\\Services.csproj",
               "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\Services.csproj",
               "RelativeToolTip": "Services\\Services.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-22T11:56:15.344Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Entities\\User.cs",
-              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Entities\\User.cs",
-              "RelativeToolTip": "Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T11:38:32.234Z"
             }
           ]
         }

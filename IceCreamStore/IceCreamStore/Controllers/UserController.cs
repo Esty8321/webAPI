@@ -12,13 +12,17 @@ namespace IceCreamStore.Controllers
     public class UserController : ControllerBase//-----------------
     {
 
-        public UserService userServices = new UserService();
-       
+        public IUserService _userServices;
+        public UserController(IUserService userService)
+        {
+            this._userServices = userService;
+        }
+
         [HttpGet("{id}")]
-        public ActionResult<User> Get(int id)
+        public  async Task<ActionResult<User> >Get(int id)
         {
            
-            User user= (User)(userServices.getUserById(id));
+            User user= (User)( await _userServices.getUserById(id));
             if (user == null)
                 return BadRequest();
             
@@ -27,9 +31,9 @@ namespace IceCreamStore.Controllers
 
         // POST api/<UserController>
         [HttpPost("register")]
-        public ActionResult<User> Post([FromBody] User user)
+        public async Task<ActionResult<User>>Post([FromBody] User user)
         {
-            User newUser=userServices.addUser(user);
+            User newUser= await _userServices.addUser(user);
             if (newUser!=null)
                 return Ok(newUser);
             return BadRequest();
@@ -38,9 +42,9 @@ namespace IceCreamStore.Controllers
 
         //to the login
         [HttpPost("login")]
-        public ActionResult<User>Post([FromBody] UserLogin userLogin)
+        public async Task<ActionResult<User>>Post([FromBody] UserLogin userLogin)
         {
-            User user = userServices.login(userLogin);
+            User user = await  _userServices.login(userLogin);
             if (user != null)
                 return Ok(userLogin);
             return BadRequest();
@@ -48,9 +52,9 @@ namespace IceCreamStore.Controllers
 
         // PUT api/<UserController>/5
         [HttpPut("{id}")]
-        public ActionResult<User> Put(User userToUpdate)
+        public async Task<ActionResult<User> >Put(User userToUpdate)
         {
-            User updatedUser = userServices.updateUser(userToUpdate);
+            User updatedUser = await _userServices.updateUser(userToUpdate);
             if (updatedUser != null)
                 return Ok(updatedUser);
             return BadRequest();
@@ -61,7 +65,7 @@ namespace IceCreamStore.Controllers
         [HttpPost("/checkPassword")]
         public ActionResult<int> Post([FromBody]String password)
         {
-            int powerPassword = userServices.powerOfPassword(password);
+            int powerPassword = _userServices.powerOfPassword(password);
             if (powerPassword != -1)
                 return Ok(powerPassword);
             return BadRequest();

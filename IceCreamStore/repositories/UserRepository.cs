@@ -1,97 +1,57 @@
 ﻿using Entities;
+using Microsoft.EntityFrameworkCore;
 using System.Reflection.Metadata.Ecma335;
 using System.Reflection.PortableExecutable;
 using System.Text.Json;
+using System.Threading.Tasks;
 
 namespace repositories
 {
-    public class UserRepository
+    public class UserRepository : IUserRepository
     {
+        //string connetion = "Data Source=SRV2\\PUPILS;Initial Catalog=webApiServer;Integrated Security=True;TrustServerCertificate=True";
+
+        webApiServerContext objectContext;
+        public UserRepository(webApiServerContext objectContext)
+        {
+            this.objectContext = objectContext;
+        }
         //all the function with the file'
-        const String filePath = "F:\\webAPI\\iceCreamStore\\users.txt";
+
 
         //get byId
-        public User getUserById(int id)
+        public async Task<User> getUserById(int id)
         {
-            using (StreamReader reader = System.IO.File.OpenText(filePath))
-            {
-                string? currentUserInFile;
-                while ((currentUserInFile = reader.ReadLine()) != null)
-                {
-                    User user = JsonSerializer.Deserialize<User>(currentUserInFile);
-                    if (user?.ID == id)
-                        return user;
-
-                }
-            }
-            return null;
-        }
-
-        //create new user
-        public User addUser(User user)
-        {
-            int numberOfUsers = -1;
-            try
-            {
-                numberOfUsers = System.IO.File.ReadLines(filePath).Count();
-            }
-            catch { }
-            user.ID = numberOfUsers + 1;
-            string userJson = JsonSerializer.Serialize(user);
-            System.IO.File.AppendAllText(filePath, userJson + Environment.NewLine);
+            User user = await objectContext.Users.FindAsync(id);
             return user;
         }
 
-       
-
-        public User updateUser(User userToUpdate)
+        //create new user
+        public async Task<User> addUser(User user)
         {
-            User user = null;
-            string textToReplace = string.Empty;
-            using (StreamReader reader = System.IO.File.OpenText(filePath))
-            {
-                string currentUserInFile;
-                while ((currentUserInFile = reader.ReadLine()) != null)
-                {
 
-                    user = JsonSerializer.Deserialize<User>(currentUserInFile);
-                    if (user?.ID == userToUpdate.ID)
-                        textToReplace = currentUserInFile;
-                }
-            }
-
-            if (textToReplace != string.Empty )
-            {
-                string text = System.IO.File.ReadAllText(filePath);
-                text = text.Replace(textToReplace, JsonSerializer.Serialize(userToUpdate));
-                System.IO.File.WriteAllText(filePath, text);
-                return user;
-            }
-            return null;
-
+            await objectContext.Users.AddAsync(user);
+            await objectContext.SaveChangesAsync();
+            return user;
         }
 
-        public User login(UserLogin userLogin)//user login
+
+
+        public async Task<User> updateUser(User userToUpdate)
         {
-            
-            using (StreamReader reader = System.IO.File.OpenText(filePath)) { 
-                string? currentUserInFile;
-            while ((currentUserInFile = reader.ReadLine()) != null)
-            {
-                User user = JsonSerializer.Deserialize<User>(currentUserInFile);
-                if (user?.Email == userLogin.Email&&user.Password==userLogin.Password)
-                             return user;
-                }
-            return null;
+            objectContext.Users.Update(userToUpdate);
+           await objectContext.SaveChangesAsync();
+            return userToUpdate;
+        }
 
-        }}
+       
+       
 
+        public async Task<User> login(UserLogin userLogin)
+        {
+            return await objectContext.Users.Where(user => user.Email == userLogin.Email && user.Password == userLogin.Password).FirstOrDefaultAsync();
+        }
+
+        
     }
-
-    //delete
-    //public ActionResult<User> deleteUser(int id)
-    //{
-
-    //}
 }
-

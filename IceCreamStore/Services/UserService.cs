@@ -4,30 +4,35 @@ namespace Services
 
 
 {
-    public class UserService
+    public class UserService : IUserService//??fix 
     {
-        UserRepository userRepository = new UserRepository();
-      
-        public User getUserById(int id)
+        IUserRepository _userRepository;
+        public UserService(IUserRepository userRepository)
         {
-            return userRepository.getUserById(id);
+            _userRepository = userRepository;   
         }
 
-        public User addUser(User user)
+        
+        public async Task<User> getUserById(int id)
         {
-            return userRepository.addUser(user);
+            return  await _userRepository.getUserById(id);
         }
 
-        public User updateUser(User user)
+        public  async Task<User> addUser(User user)
         {
-            return userRepository.updateUser(user);
+            return await _userRepository.addUser(user);
         }
 
-       public User login(UserLogin userLogin)
+        public Task<User> updateUser(User user)
+        {
+            return _userRepository.updateUser(user);
+        }
+
+        public async Task<User> login(UserLogin userLogin)
         {
             if (userLogin.Email == null || userLogin.Password == null)
                 return null;
-            return userRepository.login(userLogin);
+            return await _userRepository.login(userLogin);
         }
 
         public int powerOfPassword(String password)

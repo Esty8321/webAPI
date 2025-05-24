@@ -2,14 +2,14 @@
 
 async function addUser() {
    const Email = document.getElementById("email").value;
-    const Password = document.getElementById("psw").value;
+    const Password = document.getElementById("pswRegister").value;
     const FirstName = document.getElementById("firstName").value;
     const LastName = document.getElementById("lastName").value;
     const user = {Email,Password,FirstName,LastName}
     if (user.Email == "" || user.Password == "")
         alert("Email and password required")
 
-    const dataPost = await fetch("api/User",
+    const dataPost = await fetch("api/User/register",
         {
             method: 'POST',
             headers: {
@@ -41,7 +41,7 @@ async function login() {
     }
         
     try {
-        const res = await fetch("http://localhost:5099/api/User/login",
+        const res = await fetch("api/User/login",
             {
                 method: "POST",
                 headers: {
@@ -82,7 +82,7 @@ const checkPowerPassword = async () => {
                 body:JSON.stringify(password),
             }).then(response => {
                 if (!response.ok) {
-                    throw new Error("Esty---check password failed")
+                    throw new Error("---check password failed")
                 }
                  return response.json()
             }).then(data => {
@@ -95,38 +95,36 @@ const checkPowerPassword = async () => {
     }
 }
 
-//async function updateUser() {
-//    user.Email = document.getElementById("email").value;
-//    user.Password = document.getElementById("psw").value;
-//    user.FirstName = document.getElementById("firstName").value;
-//    user.LastName = document.getElementById("lastName").value;
-//    user.Id = Number(JSON.parse(sessionStorage.getItem("user")).userId);
-//    console.log(user)
-//    try {
-//        const dataPost = await fetch(`api/User/${user.Id}`,
-//            {
-//                method: 'PUT',
-//                headers: {
-//                    'Content-Type': 'application/json'
-//                },
-//                body: JSON.stringify(user)
-//            }).then(response => {
-//                if (!response.ok) {
-//                    alert("Update fail");
-//                }
-//                return response.json();
-//            }).then(data => {
-//                sessionStorage.setItem("user", JSON.stringify(data))
-//                alert("update success!!")
-//            })
-//    }
-//    catch (e) {
-
-//        return "error";
-//    }
-//}
 
 
 
-
+async function updateUser() {
+    user.Email = document.getElementById("email").value;
+    user.Password = document.getElementById("psw").value;
+    user.FirstName = document.getElementById("firstName").value;
+    user.LastName = document.getElementById("lastName").value;
+    user.Id = Number(JSON.parse(sessionStorage.getItem("user")).userId);
+    console.log(user)
+    try {
+        const dataPost = await fetch(`api/User/${user.Id}`,
+            {
+                method: 'PUT',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(user)
+            }).then(response => {
+                if (!response.ok) {
+                    alert("Update fail");
+                }
+                return response.json();
+            }).then(data => {
+                sessionStorage.setItem("user", JSON.stringify(data))
+                alert("update success!!")
+            })
+    }
+    catch (e) {
+        return "error";
+    }
+}
 
