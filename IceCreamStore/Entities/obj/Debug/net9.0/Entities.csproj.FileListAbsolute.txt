@@ -22,6 +22,8 @@ E:\webAPI\iceCreamStore\IceCreamStore\Entities\obj\Debug\net9.0\Entities.pdb
 E:\webAPI\iceCreamStore\IceCreamStore\Entities\obj\Debug\net9.0\ref\Entities.dll
 F:\webAPI\iceCreamStore\IceCreamStore\Entities\obj\Debug\net9.0\Entities.sourcelink.json
 F:\webAPI\iceCreamStore\IceCreamStore\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+E:\webAPI\iceCreamStore\IceCreamStore\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+E:\webAPI\iceCreamStore\IceCreamStore\Entities\obj\Debug\net9.0\Entities.sourcelink.json
 D:\webAPI\iceCreamStore\IceCreamStore\Entities\bin\Debug\net9.0\Entities.deps.json
 D:\webAPI\iceCreamStore\IceCreamStore\Entities\bin\Debug\net9.0\Entities.dll
 D:\webAPI\iceCreamStore\IceCreamStore\Entities\bin\Debug\net9.0\Entities.pdb
@@ -35,5 +37,3 @@ D:\webAPI\iceCreamStore\IceCreamStore\Entities\obj\Debug\net9.0\Entities.dll
 D:\webAPI\iceCreamStore\IceCreamStore\Entities\obj\Debug\net9.0\refint\Entities.dll
 D:\webAPI\iceCreamStore\IceCreamStore\Entities\obj\Debug\net9.0\Entities.pdb
 D:\webAPI\iceCreamStore\IceCreamStore\Entities\obj\Debug\net9.0\ref\Entities.dll
-E:\webAPI\iceCreamStore\IceCreamStore\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
-E:\webAPI\iceCreamStore\IceCreamStore\Entities\obj\Debug\net9.0\Entities.sourcelink.json

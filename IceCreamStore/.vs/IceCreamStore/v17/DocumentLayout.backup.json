@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52AA4C1E-6D05-4C4A-9AF1-B833DE3D326D}|UnitTesting\\UnitTesting.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\unittesting\\userserviceintegraiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52AA4C1E-6D05-4C4A-9AF1-B833DE3D326D}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\userserviceintegraiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52AA4C1E-6D05-4C4A-9AF1-B833DE3D326D}|UnitTesting\\UnitTesting.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\unittesting\\dbfixure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AA4C1E-6D05-4C4A-9AF1-B833DE3D326D}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\dbfixure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52AA4C1E-6D05-4C4A-9AF1-B833DE3D326D}|UnitTesting\\UnitTesting.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\unittesting\\userrepositoryintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52AA4C1E-6D05-4C4A-9AF1-B833DE3D326D}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\userrepositoryintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52AA4C1E-6D05-4C4A-9AF1-B833DE3D326D}|UnitTesting\\UnitTesting.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\unittesting\\dbfixure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52AA4C1E-6D05-4C4A-9AF1-B833DE3D326D}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\dbfixure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52AA4C1E-6D05-4C4A-9AF1-B833DE3D326D}|UnitTesting\\UnitTesting.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\unittesting\\userserviceintegraiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AA4C1E-6D05-4C4A-9AF1-B833DE3D326D}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\userserviceintegraiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\repositories\\webapiservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|solutionrelative:repositories\\webapiservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{910BBCAF-B3F0-4E49-B83A-437AF17F91B1}|Services\\Services.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{910BBCAF-B3F0-4E49-B83A-437AF17F91B1}|Services\\Services.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52AA4C1E-6D05-4C4A-9AF1-B833DE3D326D}|UnitTesting\\UnitTesting.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\unittesting\\userservieunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{74CA6815-D4F1-461F-9295-E5897E503280}|DTOs\\DTOs.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74CA6815-D4F1-461F-9295-E5897E503280}|DTOs\\DTOs.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\repositories\\webapiservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{870FCEC3-D179-4361-B19A-506D406CD0FE}|repositories\\repositories.csproj|solutionrelative:repositories\\webapiservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52AA4C1E-6D05-4C4A-9AF1-B833DE3D326D}|UnitTesting\\UnitTesting.csproj|d:\\webapi\\icecreamstore\\icecreamstore\\unittesting\\categoryrepositryunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -188,8 +188,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 118,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 131,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -197,33 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserServiceIntegraionTests.cs",
-              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\UnitTesting\\UserServiceIntegraionTests.cs",
-              "RelativeDocumentMoniker": "UnitTesting\\UserServiceIntegraionTests.cs",
-              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\UnitTesting\\UserServiceIntegraionTests.cs*",
-              "RelativeToolTip": "UnitTesting\\UserServiceIntegraionTests.cs*",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAiwDgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T12:36:12.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "userRepositoryIntegrationTest.cs",
-              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\UnitTesting\\userRepositoryIntegrationTest.cs",
-              "RelativeDocumentMoniker": "UnitTesting\\userRepositoryIntegrationTest.cs",
-              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\UnitTesting\\userRepositoryIntegrationTest.cs",
-              "RelativeToolTip": "UnitTesting\\userRepositoryIntegrationTest.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T11:43:15.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "Services\\IUserService.cs",
@@ -231,38 +205,48 @@
               "RelativeToolTip": "Services\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T12:28:28.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T12:28:28.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "Services\\OrderService.cs",
-              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\OrderService.cs",
-              "RelativeToolTip": "Services\\OrderService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UserServiceIntegraionTests.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\UnitTesting\\UserServiceIntegraionTests.cs",
+              "RelativeDocumentMoniker": "UnitTesting\\UserServiceIntegraionTests.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\UnitTesting\\UserServiceIntegraionTests.cs",
+              "RelativeToolTip": "UnitTesting\\UserServiceIntegraionTests.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwCwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T12:28:07.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T12:36:12.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Services\\ProductService.cs",
-              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\ProductService.cs",
-              "RelativeToolTip": "Services\\ProductService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBwAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DbFixure.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\UnitTesting\\DbFixure.cs",
+              "RelativeDocumentMoniker": "UnitTesting\\DbFixure.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\UnitTesting\\DbFixure.cs",
+              "RelativeToolTip": "UnitTesting\\DbFixure.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:31:43.963Z",
+              "WhenOpened": "2025-06-17T12:53:59.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "userRepositoryIntegrationTest.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\UnitTesting\\userRepositoryIntegrationTest.cs",
+              "RelativeDocumentMoniker": "UnitTesting\\userRepositoryIntegrationTest.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\UnitTesting\\userRepositoryIntegrationTest.cs",
+              "RelativeToolTip": "UnitTesting\\userRepositoryIntegrationTest.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:43:15.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Mapper.cs",
               "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\IceCreamStore\\Mapper.cs",
               "RelativeDocumentMoniker": "IceCreamStore\\Mapper.cs",
@@ -270,25 +254,47 @@
               "RelativeToolTip": "IceCreamStore\\Mapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:54:37.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T15:54:37.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DbFixure.cs",
-              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\UnitTesting\\DbFixure.cs",
-              "RelativeDocumentMoniker": "UnitTesting\\DbFixure.cs",
-              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\UnitTesting\\DbFixure.cs*",
-              "RelativeToolTip": "UnitTesting\\DbFixure.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "webApiServerContext.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\webApiServerContext.cs",
+              "RelativeDocumentMoniker": "repositories\\webApiServerContext.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\webApiServerContext.cs",
+              "RelativeToolTip": "repositories\\webApiServerContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwB4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T12:53:59.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T15:10:19.814Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:31:43.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:28:07.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "CategoryDTO.cs",
               "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\DTOs\\CategoryDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\CategoryDTO.cs",
@@ -296,12 +302,11 @@
               "RelativeToolTip": "DTOs\\CategoryDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:49:12.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T09:49:12.685Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
@@ -309,25 +314,11 @@
               "RelativeToolTip": "Services\\UserService.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAYwB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T19:34:04.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T19:34:04.412Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "repositories\\UserRepository.cs",
-              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\UserRepository.cs",
-              "RelativeToolTip": "repositories\\UserRepository.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T12:40:25.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserServieUnitTests.cs",
               "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\UnitTesting\\UserServieUnitTests.cs",
               "RelativeDocumentMoniker": "UnitTesting\\UserServieUnitTests.cs",
@@ -335,12 +326,11 @@
               "RelativeToolTip": "UnitTesting\\UserServieUnitTests.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T12:35:58.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T12:35:58.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\DTOs\\ProductDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\ProductDTO.cs",
@@ -348,21 +338,7 @@
               "RelativeToolTip": "DTOs\\ProductDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:48:54.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "webApiServerContext.cs",
-              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\webApiServerContext.cs",
-              "RelativeDocumentMoniker": "repositories\\webApiServerContext.cs",
-              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\webApiServerContext.cs",
-              "RelativeToolTip": "repositories\\webApiServerContext.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAADwvxAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:10:19.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T09:48:54.334Z"
             },
             {
               "$type": "Document",
@@ -374,8 +350,7 @@
               "RelativeToolTip": "UnitTesting\\CategoryRepositryUnitTesting.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T10:44:12.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T10:44:12.034Z"
             },
             {
               "$type": "Document",
@@ -387,8 +362,7 @@
               "RelativeToolTip": "Services\\Services.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-22T11:56:15.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T11:56:15.344Z"
             },
             {
               "$type": "Document",
@@ -472,8 +446,7 @@
               "RelativeToolTip": "IceCreamStore\\Controllers\\OrderController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAIA/wCQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:41:40.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T14:41:40.578Z"
             },
             {
               "$type": "Document",
@@ -509,8 +482,7 @@
               "RelativeToolTip": "Entities\\Order.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:05:44.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T15:05:44.597Z"
             },
             {
               "$type": "Document",
@@ -748,6 +720,25 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-05-11T09:56:23.667Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 105,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "repositories\\UserRepository.cs",
+              "ToolTip": "D:\\webAPI\\iceCreamStore\\IceCreamStore\\repositories\\UserRepository.cs",
+              "RelativeToolTip": "repositories\\UserRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:40:25.874Z",
+              "EditorCaption": ""
             }
           ]
         }

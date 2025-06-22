@@ -42,7 +42,7 @@ namespace UnitTesting
             UserRepository userRepository = new UserRepository(_dbContext, _configuration); ;
             userService = new UserService(userRepository, _mapper, logger);
         }
-
+        
         [Fact]
         public async Task AddUser_ValidMultiplied_ReturnsUser()
         {
@@ -52,7 +52,8 @@ namespace UnitTesting
 
         }
 
-C
+      
+
 
         //[Fact]
         //public async Task Logint_LogToFile()

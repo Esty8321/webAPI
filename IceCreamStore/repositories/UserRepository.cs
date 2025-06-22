@@ -1,16 +1,11 @@
 ﻿using Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-using System.Reflection.Metadata.Ecma335;
-using System.Reflection.PortableExecutable;
-using System.Text.Json;
-using System.Threading.Tasks;
 
 namespace repositories
 {
-    public class UserRepository : IUserRepository
+    public class UserRepository :IUserRepository
     {
-        //string connetion = "Data Source=SRV2\\PUPILS;Initial Catalog=webApiServer;Integrated Security=True;TrustServerCertificate=True";
 
         webApiServerContext objectContext;
         public UserRepository(webApiServerContext objectContext,IConfiguration configuration)
@@ -40,13 +35,21 @@ namespace repositories
 
         public async Task<User> updateUser(User userToUpdate)
         {
-            objectContext.Users.Update(userToUpdate);
-           await objectContext.SaveChangesAsync();
-            return userToUpdate;
+            var existingUser = await objectContext.Users.FindAsync(userToUpdate.Id);
+            if (existingUser == null)
+                throw new Exception("User not found");
+
+            // Update fields manually
+            existingUser.Email = userToUpdate.Email;
+            existingUser.FirstName = userToUpdate.FirstName;
+            existingUser.LastName = userToUpdate.LastName;
+            existingUser.Password = userToUpdate.Password;
+
+            await objectContext.SaveChangesAsync();
+            return existingUser;
         }
 
-       
-       
+
 
         public async Task<User> login(UserLogin userLogin)
         {

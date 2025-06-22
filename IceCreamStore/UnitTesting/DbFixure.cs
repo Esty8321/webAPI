@@ -19,18 +19,12 @@ namespace UnitTesting
                 .UseSqlServer("Data Source=DESKTOP-IN2P6D4;Initial Catalog=TestIceCreamStore;Integrated Security=True;TrustServerCertificate=True")
                 .Options;
             Context=new webApiServerContext(options);
-            try
-            {
-                Context.Database.EnsureCreated();
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex);
-            }
+            Context.Database.EnsureCreated();
         }
         public void Dispose()
         {
-            Context.Database.EnsureDeleted();
+            //Context.Database.EnsureDeleted();
+
             Context.Dispose();
         }
     }
