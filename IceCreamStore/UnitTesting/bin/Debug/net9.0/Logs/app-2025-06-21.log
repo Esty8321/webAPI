@@ -1,0 +1,19 @@
+2025-06-21 23:17:05.8383 | INFO | Services.UserService | Login attempted with User Email, m025863821@gmail.com and password 1234 
+2025-06-21 23:17:06.0232 | ERROR | Services.UserService | invalild user try to insert for you site!!! 
+2025-06-21 23:17:40.7892 | INFO | Services.UserService | Login attempted with User Email, m025863821@gmail.com and password 1234 
+2025-06-21 23:17:40.9960 | ERROR | Services.UserService | invalild user try to insert for you site!!! 
+2025-06-21 23:19:16.9929 | INFO | Services.UserService | Login attempted with User Email, m025863821@gmail.com and password 1234 
+2025-06-21 23:19:17.2366 | ERROR | Services.UserService | invalild user try to insert for you site!!! 
+2025-06-21 23:19:53.1552 | INFO | Services.UserService | Login attempted with User Email, m025863821@gmail.com and password 1234 
+2025-06-21 23:19:53.3818 | ERROR | Services.UserService | invalild user try to insert for you site!!! 
+2025-06-21 23:20:50.5057 | INFO | Services.UserService | Login attempted with User Email, m025863821@gmail.com and password 1234 
+2025-06-21 23:20:50.7138 | ERROR | Services.UserService | invalild user try to insert for you site!!! 
+2025-06-21 23:23:23.5430 | INFO | Services.UserService | Login attempted with User Email, m025863821@gmail.com and password 1234 
+2025-06-21 23:23:23.8319 | ERROR | Services.UserService | invalild user try to insert for you site!!! 
+2025-06-21 23:33:11.0916 | INFO | Services.UserService | Login attempted with User Email, m025863821@gmail.com and password 1234 
+2025-06-21 23:33:11.3415 | ERROR | Services.UserService | invalild user try to insert for you site!!! 
+2025-06-21 23:33:49.2277 | INFO | Services.UserService | Login attempted with User Email, m025863821@gmail.com and password 1234 
+2025-06-21 23:33:49.4322 | ERROR | Services.UserService | invalild user try to insert for you site!!! 
+2025-06-21 23:35:03.5189 | INFO | Services.UserService | Login attempted with User Email, m025863821@gmail.com and password 1234 
+2025-06-21 23:35:03.8063 | ERROR | Services.UserService | invalild user try to insert for you site!!! 
+2025-06-21 23:41:42.4012 | INFO | Services.UserService | Login attempted with User Email, m025863821@gmail.com and password 1234 

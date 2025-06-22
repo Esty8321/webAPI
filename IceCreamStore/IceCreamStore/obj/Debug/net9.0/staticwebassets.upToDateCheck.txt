@@ -1,9 +1,9 @@
-F:\webAPI\iceCreamStore\IceCreamStore\IceCreamStore\wwwroot\main.html
-F:\webAPI\iceCreamStore\IceCreamStore\IceCreamStore\wwwroot\update.html
-F:\webAPI\iceCreamStore\IceCreamStore\IceCreamStore\wwwroot\Product.js
-F:\webAPI\iceCreamStore\IceCreamStore\IceCreamStore\wwwroot\main.css
-F:\webAPI\iceCreamStore\IceCreamStore\IceCreamStore\wwwroot\Product.html
-F:\webAPI\iceCreamStore\IceCreamStore\IceCreamStore\wwwroot\main.js
+D:\webAPI\iceCreamStore\IceCreamStore\IceCreamStore\wwwroot\main.html
+D:\webAPI\iceCreamStore\IceCreamStore\IceCreamStore\wwwroot\update.html
+D:\webAPI\iceCreamStore\IceCreamStore\IceCreamStore\wwwroot\Product.js
+D:\webAPI\iceCreamStore\IceCreamStore\IceCreamStore\wwwroot\main.css
+D:\webAPI\iceCreamStore\IceCreamStore\IceCreamStore\wwwroot\Product.html
+D:\webAPI\iceCreamStore\IceCreamStore\IceCreamStore\wwwroot\main.js
 wwwroot\main.css
 wwwroot\main.html
 wwwroot\main.js

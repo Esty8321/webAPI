@@ -1,0 +1,11 @@
+2025-06-22 01:04:05.7913 | INFO | Services.UserService | Login attempted with User Email, m025863821@gmail.com and password 1234 
+2025-06-22 01:29:19.7364 | INFO | Services.UserService | Login attempted with User Email, m025863821@gmail.com and password 1234 
+2025-06-22 01:30:34.6985 | INFO | Services.UserService | Login attempted with User Email, m025863821@gmail.com and password 1234 
+2025-06-22 01:42:12.2839 | INFO | Services.UserService | Login attempted with User Email, m025863821@gmail.com and password 1234 
+2025-06-22 01:59:36.5783 | INFO | Services.UserService | Login attempted with User Email, m025863821@gmail.com and password 1234 
+2025-06-22 01:59:37.4914 | INFO | Services.UserService | Login attempted with User Email, m025863821@gmail.com and password 1234 
+2025-06-22 02:02:48.0143 | INFO | Services.UserService | Login attempted with User Email, m025863821@gmail.com and password 1234 
+2025-06-22 02:02:49.3978 | ERROR | Services.UserService | invalild user try to insert for you site!!! 
+2025-06-22 02:02:55.8275 | INFO | Services.UserService | Login attempted with User Email, m025863821@gmail.com and password 1234 
+2025-06-22 02:02:55.8434 | ERROR | Services.UserService | invalild user try to insert for you site!!! 
+2025-06-22 02:04:27.9448 | INFO | Services.UserService | Login attempted with User Email, m025863821112gmail.com and password 1234 

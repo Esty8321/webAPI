@@ -1,4 +1,5 @@
-﻿using Entities;
+﻿using DTOs;
+using Entities;
 using Microsoft.AspNetCore.Mvc;
 using Services;
 
@@ -18,7 +19,7 @@ namespace IceCreamStore.Controllers
         }
         // GET: api/<ProductController>
         [HttpGet]
-        public async Task<List<Product>> Get()
+        public async Task<List<ProductDTO>> Get()
         {
             return await _productService.GetAllProducts();
         }

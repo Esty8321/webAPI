@@ -1,5 +1,6 @@
 ﻿using Entities;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using System.Reflection.Metadata.Ecma335;
 using System.Reflection.PortableExecutable;
 using System.Text.Json;
@@ -12,7 +13,7 @@ namespace repositories
         //string connetion = "Data Source=SRV2\\PUPILS;Initial Catalog=webApiServer;Integrated Security=True;TrustServerCertificate=True";
 
         webApiServerContext objectContext;
-        public UserRepository(webApiServerContext objectContext)
+        public UserRepository(webApiServerContext objectContext,IConfiguration configuration)
         {
             this.objectContext = objectContext;
         }

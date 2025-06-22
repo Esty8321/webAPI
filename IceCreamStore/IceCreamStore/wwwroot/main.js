@@ -54,7 +54,6 @@ async function login() {
                 }
                 return response.json();
             }).then(data => {
-                console.log(data)
                 sessionStorage.setItem("user", JSON.stringify(data))
                 window.location.replace("Product.html")
             })
@@ -73,7 +72,7 @@ const checkPowerPassword = async () => {
 
     console.log('ppppppppa',password)
     try {
-        const resPassword = await fetch("http://localhost:5099/api/User/checkPassword",
+        const resPassword = await fetch("api/User/checkPassword",
             {
                 method: 'POST',
                 headers: {

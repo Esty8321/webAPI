@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[Entities.Category, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[DTOs.CategoryDTO, DTOs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -28,14 +28,14 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "order",
-        "Type": "Entities.Order",
+        "Name": "orderDTO",
+        "Type": "DTOs.OrderDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Entities.Order",
+        "Type": "DTOs.OrderDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -55,7 +55,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[Entities.Product, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[DTOs.ProductDTO, DTOs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -93,26 +93,21 @@
   },
   {
     "ContainingType": "IceCreamStore.Controllers.UserController",
-    "Method": "Put",
-    "RelativePath": "api/User/{id}",
-    "HttpMethod": "PUT",
+    "Method": "Post",
+    "RelativePath": "api/User/checkPassword",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "userToUpdate",
-        "Type": "Entities.User",
-        "IsRequired": true
-      },
-      {
-        "Name": "id",
-        "Type": "",
+        "Name": "password",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Entities.User",
+        "Type": "System.Int32",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -138,7 +133,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "Entities.User",
+        "Type": "DTOs.UserDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -176,21 +171,21 @@
   },
   {
     "ContainingType": "IceCreamStore.Controllers.UserController",
-    "Method": "Post",
-    "RelativePath": "checkPassword",
-    "HttpMethod": "POST",
+    "Method": "Put",
+    "RelativePath": "api/User/update",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "password",
-        "Type": "System.String",
+        "Name": "userToUpdate",
+        "Type": "DTOs.UserDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Int32",
+        "Type": "Entities.User",
         "MediaTypes": [
           "text/plain",
           "application/json",

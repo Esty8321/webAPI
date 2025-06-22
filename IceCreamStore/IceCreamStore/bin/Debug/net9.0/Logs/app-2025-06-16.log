@@ -1,0 +1,5 @@
+2025-06-16 20:36:35.5441 | INFO | Services.UserService | Login attempted whith User Email, m025863821@gmail.com and password 1234 
+2025-06-16 20:36:36.8219 | INFO | Services.UserService | Login attempted whith User Email, m025863821@gmail.com and password 1234 
+2025-06-16 20:42:27.8923 | INFO | Services.UserService | Login attempted with User Email, m025863821@gmail.com and password 1234 
+2025-06-16 20:43:13.4496 | INFO | Services.UserService | Login attempted with User Email, adfas and password afdsf 
+2025-06-16 20:43:13.5837 | ERROR | Services.UserService | invalild user try to insert for you site!!! 

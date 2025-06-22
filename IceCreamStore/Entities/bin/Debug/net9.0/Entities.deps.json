@@ -10,6 +10,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "9.0.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.5",
+          "Microsoft.Extensions.DependencyInjection": "9.0.5",
           "Swashbuckle.AspNetCore": "8.1.1"
         },
         "runtime": {

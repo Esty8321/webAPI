@@ -1,4 +1,6 @@
-﻿using Entities;
+﻿using AutoMapper;
+using DTOs;
+using Entities;
 using Microsoft.AspNetCore.Mvc;
 using Services;
 using System.Text.Json;
@@ -11,18 +13,20 @@ namespace IceCreamStore.Controllers
     [ApiController]
     public class UserController : ControllerBase//-----------------
     {
+        public readonly IMapper _mapper;
 
         public IUserService _userServices;
-        public UserController(IUserService userService)
+        public UserController(IUserService userService,IMapper mapper)
         {
-            this._userServices = userService;
+            _userServices = userService;
+            _mapper = mapper;   
         }
 
         [HttpGet("{id}")]
         public  async Task<ActionResult<User> >Get(int id)
         {
            
-            User user= (User)( await _userServices.getUserById(id));
+            UserDTO user= (UserDTO)( await _userServices.getUserById(id));
             if (user == null)
                 return BadRequest();
             
@@ -34,27 +38,30 @@ namespace IceCreamStore.Controllers
         public async Task<ActionResult<User>>Post([FromBody] User user)
         {
             User newUser= await _userServices.addUser(user);
-            if (newUser!=null)
+            if (newUser != null)
+            {
                 return Ok(newUser);
+            }
             return BadRequest();
 
         }
 
         //to the login
         [HttpPost("login")]
-        public async Task<ActionResult<User>>Post([FromBody] UserLogin userLogin)
+        public async Task<ActionResult<UserDTO>>Post([FromBody] UserLogin userLogin)
         {
-            User user = await  _userServices.login(userLogin);
+            UserDTO user = await  _userServices.login(userLogin);
             if (user != null)
-                return Ok(userLogin);
+                return Ok(user);
             return BadRequest();
         }
 
         // PUT api/<UserController>/5
-        [HttpPut("{id}")]
-        public async Task<ActionResult<User> >Put(User userToUpdate)
+        [HttpPut("update")]
+        public async Task<ActionResult<User> >Put(UserDTO userToUpdate)
         {
-            User updatedUser = await _userServices.updateUser(userToUpdate);
+            User user=_mapper.Map<User>(userToUpdate);
+            User updatedUser = await _userServices.updateUser(user);
             if (updatedUser != null)
                 return Ok(updatedUser);
             return BadRequest();
@@ -62,7 +69,7 @@ namespace IceCreamStore.Controllers
 
 
         //check the password:
-        [HttpPost("/checkPassword")]
+        [HttpPost("checkPassword")]
         public ActionResult<int> Post([FromBody]String password)
         {
             int powerPassword = _userServices.powerOfPassword(password);
