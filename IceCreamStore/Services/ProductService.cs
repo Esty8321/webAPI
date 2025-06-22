@@ -27,5 +27,14 @@ namespace Services
             List<ProductDTO> productsToReturn = _mapper.Map<List<ProductDTO>> (products);
             return productsToReturn;
         }
+
+        public async Task<IEnumerable<ProductDTO>> GetProducts(int position, int skip, string? desc, int? minPrice, int? maxPrice, int?[] categoryIds)
+        {
+            IEnumerable<Product> products = await _productRepository.GetProducts(position, skip, desc, minPrice, maxPrice, categoryIds);
+
+            var productDTOs = _mapper.Map<List<Product>, List<ProductDTO>>((List<Product>)products);
+
+            return productDTOs;
+        }
     }
 }

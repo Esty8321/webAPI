@@ -1,4 +1,5 @@
-﻿using DTOs;
+﻿using AutoMapper;
+using DTOs;
 using Entities;
 using Microsoft.AspNetCore.Mvc;
 using Services;
@@ -24,6 +25,17 @@ namespace IceCreamStore.Controllers
             return await _productService.GetAllProducts();
         }
 
+        public async Task<ActionResult<IEnumerable<List<Product>>>> Get([FromQuery] string? desc, [FromQuery] int? minPrice,
+           [FromQuery] int? maxPrice, [FromQuery] int?[] categoryIds, int position = 1, int skip = 10)
+        {
+            var productDTOs = await _productService.GetProducts(position, skip, desc, minPrice, maxPrice, categoryIds);
+            if (productDTOs == null)
+            {
+                return BadRequest();
+
+            }
+            return Ok(productDTOs);
+        }
         //// GET api/<ProductController>/5
         //[HttpGet("{id}")]
         //public string Get(int id)

@@ -22,6 +22,8 @@ namespace repositories
             return user;
         }
 
+       
+
         //create new user
         public async Task<User> addUser(User user)
         {
@@ -56,6 +58,6 @@ namespace repositories
             return await objectContext.Users.Where(user => user.Email == userLogin.Email && user.Password == userLogin.Password).FirstOrDefaultAsync();
         }
 
-        
+       
     }
 }

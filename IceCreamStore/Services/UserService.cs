@@ -57,6 +57,7 @@ namespace Services
            return userToReturn;
         }
 
+      
         public int powerOfPassword(String password)
         {
             if (password == null)
