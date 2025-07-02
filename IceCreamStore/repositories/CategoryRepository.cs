@@ -10,10 +10,10 @@ namespace repositories
 {
     public class CategoryRepository : ICategoryRepository
     {
-        webApiServerContext objectContext;
+        webApiServerContext objectContext;//_objectContext , change in all files
         public CategoryRepository(webApiServerContext objectContext)
         {
-            this.objectContext = objectContext;
+            this.objectContext = objectContext;//_objectContext = objectContext;
         }
         public async Task<List<Category>> GetAllCategories()
         {

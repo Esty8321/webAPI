@@ -7,7 +7,7 @@ namespace Services
 
 
 {
-    public class UserService : IUserService//??fix 
+    public class UserService : IUserService//??fix //
     {
         public readonly IMapper _mapper;
         private readonly ILogger<UserService> _logger;
@@ -20,26 +20,26 @@ namespace Services
             _logger = logger;
         }
 
-        //i change this function and i need check if she still works!
-        public async Task<UserDTO> getUserById(int id)
+        //i change this function and i need check if she still works!//
+        public async Task<UserDTO> getUserById(int id)//GetUserById
         {
             User user= await _userRepository.getUserById(id);
            var userToReturn= _mapper.Map<UserDTO>(user);
-            Console.WriteLine("userToReturn",userToReturn);
+            Console.WriteLine("userToReturn",userToReturn);//
             return userToReturn;
         }
 
-        public  async Task<User> addUser(User user)
+        public  async Task<User> addUser(User user)//AddUser
         {
             return await _userRepository.addUser(user);
         }
 
-        public Task<User> updateUser(User user)
+        public Task<User> updateUser(User user)//UpdateUser
         {
             return _userRepository.updateUser(user);
         }
 
-        public async Task<UserDTO> login(UserLogin userLogin)
+        public async Task<UserDTO> login(UserLogin userLogin)//Login
         {
             _logger.LogInformation("Login attempted with User Email, {0} and password {1}", userLogin.Email, userLogin.Password);
 
@@ -53,12 +53,11 @@ namespace Services
             {
                 _logger.LogError("invalild user try to insert for you site!!!");
             }
-           UserDTO userToReturn=_mapper.Map<UserDTO>(user); 
-           return userToReturn;
+           return _mapper.Map<UserDTO>(user); 
         }
 
       
-        public int powerOfPassword(String password)
+        public int powerOfPassword(String password)//PowerOfPassword
         {
             if (password == null)
                 return -1;

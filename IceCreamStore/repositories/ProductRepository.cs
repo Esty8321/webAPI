@@ -10,7 +10,7 @@ namespace repositories
 {
     public class ProductRepository : IProductRepository
     {
-        webApiServerContext objectContext;
+        webApiServerContext objectContext;//_objectContext
         public ProductRepository(webApiServerContext objectContext)
         {
             this.objectContext = objectContext;
@@ -30,8 +30,7 @@ namespace repositories
             && ((categoryIds.Length == 0) ? (true) : (categoryIds.Contains(product.CategoryId))))
                 .OrderBy(product => product.Price);
             Console.WriteLine(query.ToQueryString());
-            List<Product> products = await query.ToListAsync();
-            return products;
+            return await query.ToListAsync();
         }
     }
 }

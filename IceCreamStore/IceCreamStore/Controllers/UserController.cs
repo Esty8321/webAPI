@@ -23,10 +23,12 @@ namespace IceCreamStore.Controllers
         }
 
         [HttpGet("{id}")]
-        public  async Task<ActionResult<User> >Get(int id)
+        public  async Task<ActionResult<User> >Get(int id) //change to Task<ActionResult<UserDTO>
         {
            
-            UserDTO user= (UserDTO)( await _userServices.getUserById(id));
+            UserDTO user=  await _userServices.getUserById(id);
+            //use shorted syntax
+            //return user == null ? BadRequest() : Ok(user);
             if (user == null)
                 return BadRequest();
             
@@ -38,6 +40,8 @@ namespace IceCreamStore.Controllers
         public async Task<ActionResult<User>>Post([FromBody] User user)
         {
             User newUser= await _userServices.addUser(user);
+            //use shorted syntax
+            //return newUser == null ? BadRequest() : Ok(newUser);
             if (newUser != null)
             {
                 return Ok(newUser);
@@ -51,6 +55,7 @@ namespace IceCreamStore.Controllers
         public async Task<ActionResult<UserDTO>>Post([FromBody] UserLogin userLogin)
         {
             UserDTO user = await  _userServices.login(userLogin);
+            //use shorted syntax
             if (user != null)
                 return Ok(user);
             return BadRequest();
@@ -62,6 +67,7 @@ namespace IceCreamStore.Controllers
         {
             User user=_mapper.Map<User>(userToUpdate);
             User updatedUser = await _userServices.updateUser(user);
+            //use shorted syntax
             if (updatedUser != null)
                 return Ok(updatedUser);
             return BadRequest();
@@ -73,6 +79,7 @@ namespace IceCreamStore.Controllers
         public ActionResult<int> Post([FromBody]String password)
         {
             int powerPassword = _userServices.powerOfPassword(password);
+             //use shorted syntax
             if (powerPassword != -1)
                 return Ok(powerPassword);
             return BadRequest();
