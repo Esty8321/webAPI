@@ -29,6 +29,8 @@ namespace IceCreamStore.Controllers
            [FromQuery] int? maxPrice, [FromQuery] int?[] categoryIds, int position = 1, int skip = 10)
         {
             var productDTOs = await _productService.GetProducts(position, skip, desc, minPrice, maxPrice, categoryIds);
+            //use shorted syntax 
+            //return productDTOs == null ? BadRequest() : Ok(productDTOs);
             if (productDTOs == null)
             {
                 return BadRequest();

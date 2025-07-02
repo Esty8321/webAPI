@@ -7,7 +7,7 @@ namespace repositories
     public class UserRepository :IUserRepository
     {
 
-        webApiServerContext objectContext;
+        webApiServerContext objectContext;//_objectContext
         public UserRepository(webApiServerContext objectContext,IConfiguration configuration)
         {
             this.objectContext = objectContext;
@@ -16,16 +16,15 @@ namespace repositories
 
 
         //get byId
-        public async Task<User> getUserById(int id)
+        public async Task<User> getUserById(int id)//GetUserById - clean code function name should be in PascalCase
         {
-            User user = await objectContext.Users.FindAsync(id);
-            return user;
+            return await objectContext.Users.FindAsync(id);
         }
 
        
 
         //create new user
-        public async Task<User> addUser(User user)
+        public async Task<User> addUser(User user)//AddUser
         {
 
             await objectContext.Users.AddAsync(user);
@@ -35,25 +34,25 @@ namespace repositories
 
 
 
-        public async Task<User> updateUser(User userToUpdate)
+        public async Task<User> updateUser(User userToUpdate)//UpdateUser
         {
-            var existingUser = await objectContext.Users.FindAsync(userToUpdate.Id);
+            var existingUser = await objectContext.Users.FindAsync(userToUpdate.Id);//use getUserById function
             if (existingUser == null)
                 throw new Exception("User not found");
 
             // Update fields manually
-            existingUser.Email = userToUpdate.Email;
-            existingUser.FirstName = userToUpdate.FirstName;
-            existingUser.LastName = userToUpdate.LastName;
-            existingUser.Password = userToUpdate.Password;
-
+            // existingUser.Email = userToUpdate.Email;
+            // existingUser.FirstName = userToUpdate.FirstName;
+            // existingUser.LastName = userToUpdate.LastName;
+            // existingUser.Password = userToUpdate.Password;
+            objectContext.Users.Update(userToUpdate);
             await objectContext.SaveChangesAsync();
             return existingUser;
         }
 
 
 
-        public async Task<User> login(UserLogin userLogin)
+        public async Task<User> login(UserLogin userLogin)//Login
         {
             return await objectContext.Users.Where(user => user.Email == userLogin.Email && user.Password == userLogin.Password).FirstOrDefaultAsync();
         }
